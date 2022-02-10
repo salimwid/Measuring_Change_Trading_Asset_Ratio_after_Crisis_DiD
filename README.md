@@ -2,7 +2,7 @@
 Measured the change in Trading Asset Ratio (TAR) in Bank Holding Companies after Volcker Rule is imposed after 2008 Financial Crisis with Difference-in-Difference (DiD) Technique.
 
 #### Techniques Employed
-Difference-in-Difference (DiD), Propensity Matching, Regression Robustness Test, Linear Regression<br>
+Difference-in-Difference (DiD), Propensity Score Matching, Regression Robustness Test, Linear Regression<br>
 
 ### Context
 The 2008 financial crisis was considered by many as the worst financial crisis since the Great Depression due to its ripple effects worldwide. Following the crisis, the U.S market regulators scrambled to impose strict regulations on the financial sector to maintain risk level. The Volcker Rule (TVR) was deployed as a part of the most important regulations, the Dodd-Frank Act (DFA), to restrict banks’ risky activities and reduce risk-taking by banks - specifically focusing on limiting proprietary trading and investments. <br>
